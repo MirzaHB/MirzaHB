@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a **third-year software engineering student*
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/umar-ahmed1">
+<a href="https://github.com/MirzaHB">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MirzaHB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MirzaHB&layout=compact&langs_count=8&theme=dark"/>
 </a>
