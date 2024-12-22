@@ -11,7 +11,9 @@ Welcome to my GitHub profile! I’m a **third-year software engineering student*
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MirzaHB&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
-🛠️ Skills & Technologies
+
+---
+### 🛠️ &nbsp;Skills & Technologies
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
