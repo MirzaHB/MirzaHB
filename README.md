@@ -33,7 +33,8 @@ Welcome to my GitHub profile! I’m a **third-year software engineering student*
 ---
 
 ## 💼 Experience
-
+### **CanadianUavs** | Software Engineering Intern
+- Working with **C#. ASP.Net, MongoDB**, and various other technologies to improve our radar system
 ### **Symend** | Software Engineering Intern  
 - Gained experience in **full-stack development** using technologies like **C#, ASP.Net, TypeScript, and SQL**.  
 
